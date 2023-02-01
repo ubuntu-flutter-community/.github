@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-![Discord](https://discordapp.com/api/guilds/1045632807663316992/widget.png?style=banner2)
+[![Discord](https://discordapp.com/api/guilds/1045632807663316992/widget.png?style=banner2)](https://discord.gg/Fm63f7v5)
